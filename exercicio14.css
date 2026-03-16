@@ -1,0 +1,5 @@
+.container{display:flex;}
+.container div{width:33%; height:150px;}
+.c1{background:red;}
+.c2{background:blue;}
+.c3{background:green;}

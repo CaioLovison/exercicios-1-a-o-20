@@ -1,0 +1,9 @@
+button{
+    background: blue;
+    color:white;
+    padding:10px;
+    transition:0.5s;
+    }
+    button:hover{
+    background: red;
+    }
